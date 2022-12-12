@@ -1,4 +1,4 @@
-# Module12_Challenge
+# Bacteria Challenge
 
 Roza is a biological researcher in a prominent microbiology laboratory. Many bacterial species are not well studied and many more remain unknown to science. Roza's role is to discover and document those bacteria. In particular, Roza is interested in bacterial species that have the ability to synthesize proteins that taste like beef. Her lab has partnered with Improbable Beef, a food start-up, to research candidate species. Labs across the country have had success in synthesizing meat from algae, fungi and micro-organisms found on plant roots. However Improbable Beef is still searching for the elusive bacteria that will provide the perfect taste.
 
